@@ -1,0 +1,10 @@
+F:\Software\CS\StackTest\StackTest\obj\x86\Debug\StackTest.Form1.resources
+F:\Software\CS\StackTest\StackTest\obj\x86\Debug\StackTest.Properties.Resources.resources
+F:\Software\CS\StackTest\StackTest\obj\x86\Debug\StackTest.csproj.GenerateResource.Cache
+F:\Software\CS\StackTest\StackTest\bin\Debug\StackTest.exe
+F:\Software\CS\StackTest\StackTest\bin\Debug\StackTest.pdb
+F:\Software\CS\StackTest\StackTest\obj\x86\Debug\StackTest.exe
+F:\Software\CS\StackTest\StackTest\obj\x86\Debug\StackTest.pdb
+F:\Software\CS\Proj06 StackTest\StackTest\obj\x86\Debug\StackTest.exe
+F:\Software\CS\Proj06 StackTest\StackTest\obj\x86\Debug\StackTest.pdb
+F:\Software\CS\StackTest\StackTest\obj\x86\Debug\StackTest.csprojResolveAssemblyReference.cache

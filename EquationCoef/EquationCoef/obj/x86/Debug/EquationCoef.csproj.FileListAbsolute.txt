@@ -1,0 +1,10 @@
+F:\Software\CS\EquationCoef\EquationCoef\obj\x86\Debug\EquationCoef.csprojResolveAssemblyReference.cache
+F:\Software\CS\EquationCoef\EquationCoef\obj\x86\Debug\EquationCoef.Form1.resources
+F:\Software\CS\EquationCoef\EquationCoef\obj\x86\Debug\EquationCoef.Properties.Resources.resources
+F:\Software\CS\EquationCoef\EquationCoef\obj\x86\Debug\EquationCoef.csproj.GenerateResource.Cache
+F:\Software\CS\EquationCoef\EquationCoef\bin\Debug\EquationCoef.exe
+F:\Software\CS\EquationCoef\EquationCoef\bin\Debug\EquationCoef.pdb
+F:\Software\CS\EquationCoef\EquationCoef\obj\x86\Debug\EquationCoef.exe
+F:\Software\CS\EquationCoef\EquationCoef\obj\x86\Debug\EquationCoef.pdb
+F:\Software\CS\__Luowenjun__\EquationCoef\EquationCoef\obj\x86\Debug\EquationCoef.exe
+F:\Software\CS\__Luowenjun__\EquationCoef\EquationCoef\obj\x86\Debug\EquationCoef.pdb

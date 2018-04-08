@@ -1,0 +1,5 @@
+F:\Gaoshq Documents\Documents\SoftwareMaster\MicrosoftVisualStudio\CA01\CA01\bin\Debug\CA01.exe.config
+F:\Gaoshq Documents\Documents\SoftwareMaster\MicrosoftVisualStudio\CA01\CA01\bin\Debug\CA01.exe
+F:\Gaoshq Documents\Documents\SoftwareMaster\MicrosoftVisualStudio\CA01\CA01\bin\Debug\CA01.pdb
+F:\Gaoshq Documents\Documents\SoftwareMaster\MicrosoftVisualStudio\CA01\CA01\obj\Debug\CA01.exe
+F:\Gaoshq Documents\Documents\SoftwareMaster\MicrosoftVisualStudio\CA01\CA01\obj\Debug\CA01.pdb

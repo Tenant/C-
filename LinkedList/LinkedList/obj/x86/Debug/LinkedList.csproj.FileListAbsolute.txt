@@ -1,0 +1,7 @@
+F:\Software\CS\LinkedList\LinkedList\obj\x86\Debug\LinkedList.Properties.Resources.resources
+F:\Software\CS\LinkedList\LinkedList\obj\x86\Debug\LinkedList.csproj.GenerateResource.Cache
+F:\Software\CS\LinkedList\LinkedList\obj\x86\Debug\LinkedList.Form1.resources
+F:\Software\CS\LinkedList\LinkedList\bin\Debug\LinkedList.exe
+F:\Software\CS\LinkedList\LinkedList\bin\Debug\LinkedList.pdb
+F:\Software\CS\LinkedList\LinkedList\obj\x86\Debug\LinkedList.exe
+F:\Software\CS\LinkedList\LinkedList\obj\x86\Debug\LinkedList.pdb

@@ -1,0 +1,16 @@
+F:\Software\CS\__Luowenjun__\StackTest\QueueTest\QueueTest\obj\x86\Debug\QueueTest.Form1.resources
+F:\Software\CS\__Luowenjun__\StackTest\QueueTest\QueueTest\obj\x86\Debug\QueueTest.Properties.Resources.resources
+F:\Software\CS\__Luowenjun__\StackTest\QueueTest\QueueTest\obj\x86\Debug\QueueTest.csproj.GenerateResource.Cache
+F:\Software\CS\__Luowenjun__\StackTest\QueueTest\QueueTest\bin\Debug\QueueTest.exe
+F:\Software\CS\__Luowenjun__\StackTest\QueueTest\QueueTest\bin\Debug\QueueTest.pdb
+F:\Software\CS\__Luowenjun__\StackTest\QueueTest\QueueTest\obj\x86\Debug\QueueTest.exe
+F:\Software\CS\__Luowenjun__\StackTest\QueueTest\QueueTest\obj\x86\Debug\QueueTest.pdb
+F:\Software\CS\QueueTest\QueueTest\obj\x86\Debug\QueueTest.exe
+F:\Software\CS\QueueTest\QueueTest\obj\x86\Debug\QueueTest.pdb
+F:\Software\CS\QueueTest\QueueTest\bin\Debug\QueueTest.exe
+F:\Software\CS\QueueTest\QueueTest\bin\Debug\QueueTest.pdb
+F:\Software\CS\QueueTest\QueueTest\obj\x86\Debug\QueueTest.Form1.resources
+F:\Software\CS\QueueTest\QueueTest\obj\x86\Debug\QueueTest.Properties.Resources.resources
+F:\Software\CS\QueueTest\QueueTest\obj\x86\Debug\QueueTest.csproj.GenerateResource.Cache
+F:\Software\CS\Proj05 QueueTest\QueueTest\obj\x86\Debug\QueueTest.exe
+F:\Software\CS\Proj05 QueueTest\QueueTest\obj\x86\Debug\QueueTest.pdb

@@ -1,0 +1,38 @@
+insert into tblStudent values (030318,'古待',1986-1-2,'女');
+insert into tblStudent values (020301,'张名',1989-1-1,'男');
+insert into tblStudent values (010201,'张简',1981-2-2,'女');
+insert into tblStudent values (030501,'许昌',1987-9-8,'男');
+insert into tblStudent values (030502,'刘放',1988-1-9,'男');
+insert into tblStudent values (010101,'李灿',1981-9-2,'男');
+
+insert into tblCourse values ('S01','高数一');
+insert into tblCourse values ('L02','数值算法');
+insert into tblCourse values ('J04','操作系统');
+insert into tblCourse values ('F09','德语');
+insert into tblCourse values ('F01','日语');
+insert into tblCourse values ('J01','数据库');
+
+insert into tblSelectCourse values (020301,'F09',98);
+insert into tblSelectCourse values (010101,'L02',78);
+insert into tblSelectCourse values (010101,'J04',89);
+insert into tblSelectCourse values (010201,'J01',79);
+insert into tblSelectCourse values (010101,'J04',91);
+insert into tblSelectCourse values (010101,'J01',99);
+
+select *
+from tblCourse;
+
+select s.name,s.studentNo,year(getDate())-year(s.birhtday)
+from tblStudent as s;
+
+select s.name,s.studentNo,SUM(sc.grade) as totalScore
+from tblSelectCourse sc, tblStudent s
+where s.studentNo=sc.studentNo
+group by s.studentNo,name
+having totalScore>270
+order by totalScore;
+
+select sc.studentNo,name,sc.courseNo,courseName,score
+from tblSelectCourse sc,tblStudent s
+where s.courseNo=sc.courseNo
+order by studentNo

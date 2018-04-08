@@ -1,0 +1,16 @@
+F:\Software\CS\PickUP\PickUP\bin\Debug\PickUP.exe
+F:\Software\CS\PickUP\PickUP\bin\Debug\PickUP.pdb
+F:\Software\CS\PickUP\PickUP\obj\x86\Debug\PickUP.Main.resources
+F:\Software\CS\PickUP\PickUP\obj\x86\Debug\PickUP.Properties.Resources.resources
+F:\Software\CS\PickUP\PickUP\obj\x86\Debug\PickUP.csproj.GenerateResource.Cache
+F:\Software\CS\PickUP\PickUP\obj\x86\Debug\PickUP.exe
+F:\Software\CS\PickUP\PickUP\obj\x86\Debug\PickUP.pdb
+F:\Software\CS\PickUP\PickUP\obj\x86\Debug\PickUP.Login.LoginForm.resources
+F:\Software\CS\PickUP\PickUP\obj\x86\Debug\PickUP.Vocabulary.Add_from_passages.AddFromPassgaesForm.resources
+F:\Software\CS\PickUP\PickUP\obj\x86\Debug\PickUP.Vocabulary.Add_a_single_word.AddASingleWordForm.resources
+F:\Software\CS\PickUP\PickUP\obj\x86\Debug\PickUP.Vocabulary.Search_Words.SearchWordsForm.resources
+F:\Software\CS\PickUP\PickUP\obj\x86\Debug\PickUP.Passage.Analysis.AnalysisForm.resources
+F:\Software\CS\PickUP\PickUP\obj\x86\Debug\PickUP.csprojResolveAssemblyReference.cache
+F:\Software\CS\PickUP\PickUP\obj\x86\Debug\PickUP.Plan.NewPlan.resources
+F:\Software\CS\PickUP\PickUP\obj\x86\Debug\PickUP.Plan.OpenMyPlan.resources
+F:\Software\CS\PickUP\PickUP\obj\x86\Debug\PickUP.Help.HelpForm.resources

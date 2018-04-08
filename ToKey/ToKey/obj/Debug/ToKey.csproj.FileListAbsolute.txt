@@ -1,0 +1,9 @@
+F:\Software\CS\ToKey\ToKey\bin\Debug\ToKey.exe.config
+F:\Software\CS\ToKey\ToKey\bin\Debug\ToKey.exe
+F:\Software\CS\ToKey\ToKey\bin\Debug\ToKey.pdb
+F:\Software\CS\ToKey\ToKey\obj\Debug\ToKey.csprojResolveAssemblyReference.cache
+F:\Software\CS\ToKey\ToKey\obj\Debug\ToKey.Properties.Resources.resources
+F:\Software\CS\ToKey\ToKey\obj\Debug\ToKey.csproj.GenerateResource.Cache
+F:\Software\CS\ToKey\ToKey\obj\Debug\ToKey.exe
+F:\Software\CS\ToKey\ToKey\obj\Debug\ToKey.pdb
+F:\Software\CS\ToKey\ToKey\obj\Debug\ToKey.mainForm.resources

@@ -1,0 +1,10 @@
+F:\Software\CS\CourseManagement\CourseManagement\obj\x86\Debug\CourseManagement.csprojResolveAssemblyReference.cache
+F:\Software\CS\CourseManagement\CourseManagement\obj\x86\Debug\CourseManagement.mainForm.resources
+F:\Software\CS\CourseManagement\CourseManagement\obj\x86\Debug\CourseManagement.StudentManager.InputStudentForm.resources
+F:\Software\CS\CourseManagement\CourseManagement\obj\x86\Debug\CourseManagement.Properties.Resources.resources
+F:\Software\CS\CourseManagement\CourseManagement\obj\x86\Debug\CourseManagement.TeacherManager.InputTeacherForm.resources
+F:\Software\CS\CourseManagement\CourseManagement\obj\x86\Debug\CourseManagement.csproj.GenerateResource.Cache
+F:\Software\CS\CourseManagement\CourseManagement\bin\Debug\CourseManagement.exe
+F:\Software\CS\CourseManagement\CourseManagement\bin\Debug\CourseManagement.pdb
+F:\Software\CS\CourseManagement\CourseManagement\obj\x86\Debug\CourseManagement.exe
+F:\Software\CS\CourseManagement\CourseManagement\obj\x86\Debug\CourseManagement.pdb

@@ -1,0 +1,8 @@
+F:\Software\CS\ArrayList\ArrayList\bin\Debug\ArrayList.exe
+F:\Software\CS\ArrayList\ArrayList\bin\Debug\ArrayList.pdb
+F:\Software\CS\ArrayList\ArrayList\obj\x86\Debug\ListTest2.Form1.resources
+F:\Software\CS\ArrayList\ArrayList\obj\x86\Debug\ArrayList.Properties.Resources.resources
+F:\Software\CS\ArrayList\ArrayList\obj\x86\Debug\ArrayList.csproj.GenerateResource.Cache
+F:\Software\CS\ArrayList\ArrayList\obj\x86\Debug\ArrayList.exe
+F:\Software\CS\ArrayList\ArrayList\obj\x86\Debug\ArrayList.pdb
+F:\Software\CS\ArrayList\ArrayList\obj\x86\Debug\ArrayList.csprojResolveAssemblyReference.cache

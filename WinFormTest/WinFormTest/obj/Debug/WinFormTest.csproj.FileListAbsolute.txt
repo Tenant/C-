@@ -1,0 +1,9 @@
+F:\Gaoshq Documents\Documents\SoftwareMaster\MicrosoftVisualStudio\WinFormTest\WinFormTest\bin\Debug\WinFormTest.exe.config
+F:\Gaoshq Documents\Documents\SoftwareMaster\MicrosoftVisualStudio\WinFormTest\WinFormTest\bin\Debug\WinFormTest.exe
+F:\Gaoshq Documents\Documents\SoftwareMaster\MicrosoftVisualStudio\WinFormTest\WinFormTest\bin\Debug\WinFormTest.pdb
+F:\Gaoshq Documents\Documents\SoftwareMaster\MicrosoftVisualStudio\WinFormTest\WinFormTest\obj\Debug\WinFormTest.csprojResolveAssemblyReference.cache
+F:\Gaoshq Documents\Documents\SoftwareMaster\MicrosoftVisualStudio\WinFormTest\WinFormTest\obj\Debug\WinFormTest.Form1.resources
+F:\Gaoshq Documents\Documents\SoftwareMaster\MicrosoftVisualStudio\WinFormTest\WinFormTest\obj\Debug\WinFormTest.Properties.Resources.resources
+F:\Gaoshq Documents\Documents\SoftwareMaster\MicrosoftVisualStudio\WinFormTest\WinFormTest\obj\Debug\WinFormTest.csproj.GenerateResource.Cache
+F:\Gaoshq Documents\Documents\SoftwareMaster\MicrosoftVisualStudio\WinFormTest\WinFormTest\obj\Debug\WinFormTest.exe
+F:\Gaoshq Documents\Documents\SoftwareMaster\MicrosoftVisualStudio\WinFormTest\WinFormTest\obj\Debug\WinFormTest.pdb

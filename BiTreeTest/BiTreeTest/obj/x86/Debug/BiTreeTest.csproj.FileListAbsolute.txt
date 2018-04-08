@@ -1,0 +1,14 @@
+F:\Software\CS\Proj07 BiTreeTest\BiTreeTest\obj\x86\Debug\BiTreeTest.Form1.resources
+F:\Software\CS\Proj07 BiTreeTest\BiTreeTest\obj\x86\Debug\BiTreeTest.Properties.Resources.resources
+F:\Software\CS\Proj07 BiTreeTest\BiTreeTest\obj\x86\Debug\BiTreeTest.csproj.GenerateResource.Cache
+F:\Software\CS\Proj07 BiTreeTest\BiTreeTest\bin\Debug\BiTreeTest.exe
+F:\Software\CS\Proj07 BiTreeTest\BiTreeTest\bin\Debug\BiTreeTest.pdb
+F:\Software\CS\Proj07 BiTreeTest\BiTreeTest\obj\x86\Debug\BiTreeTest.exe
+F:\Software\CS\Proj07 BiTreeTest\BiTreeTest\obj\x86\Debug\BiTreeTest.pdb
+F:\Software\CS\BiTreeTest\BiTreeTest\obj\x86\Debug\BiTreeTest.exe
+F:\Software\CS\BiTreeTest\BiTreeTest\obj\x86\Debug\BiTreeTest.pdb
+F:\Software\CS\BiTreeTest\BiTreeTest\bin\Debug\BiTreeTest.exe
+F:\Software\CS\BiTreeTest\BiTreeTest\bin\Debug\BiTreeTest.pdb
+F:\Software\CS\BiTreeTest\BiTreeTest\obj\x86\Debug\BiTreeTest.Form1.resources
+F:\Software\CS\BiTreeTest\BiTreeTest\obj\x86\Debug\BiTreeTest.Properties.Resources.resources
+F:\Software\CS\BiTreeTest\BiTreeTest\obj\x86\Debug\BiTreeTest.csproj.GenerateResource.Cache

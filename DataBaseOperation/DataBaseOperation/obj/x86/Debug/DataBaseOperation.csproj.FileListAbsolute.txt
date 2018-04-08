@@ -1,0 +1,8 @@
+F:\Software\CS\DataBaseOperation\DataBaseOperation\obj\x86\Debug\DataBaseOperation.csprojResolveAssemblyReference.cache
+F:\Software\CS\DataBaseOperation\DataBaseOperation\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\Software\CS\DataBaseOperation\DataBaseOperation\obj\x86\Debug\DataBaseOperation.Properties.Resources.resources
+F:\Software\CS\DataBaseOperation\DataBaseOperation\obj\x86\Debug\DataBaseOperation.csproj.GenerateResource.Cache
+F:\Software\CS\DataBaseOperation\DataBaseOperation\bin\Debug\DataBaseOperation.exe
+F:\Software\CS\DataBaseOperation\DataBaseOperation\bin\Debug\DataBaseOperation.pdb
+F:\Software\CS\DataBaseOperation\DataBaseOperation\obj\x86\Debug\DataBaseOperation.exe
+F:\Software\CS\DataBaseOperation\DataBaseOperation\obj\x86\Debug\DataBaseOperation.pdb
